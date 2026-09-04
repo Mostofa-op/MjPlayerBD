@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Lustre Player",
+  "description": "Professional 4K & 8K Ultra HD video player with Liquid Glass UI, AI Scene Detector, 200% volume boost, and gesture controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
